@@ -1,0 +1,15 @@
+{
+    "id": "GSBotC",
+    "name": "Blood on the Clocktower",
+    "display_name": "Blood on the Clocktower",
+    "author": ["GhostSalt"],
+    "description": "A mod pack with a bunch of characters from Blood on the Clocktower, as Jokers!",
+    "prefix": "botc",
+    "main_file": "main.lua",
+    "badge_colour": "9E93CF",
+    "text_colour": "E3CB80",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1410a)"
+    ],
+    "version": "1.0.0~ALPHA"
+}
